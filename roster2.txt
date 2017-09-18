@@ -1,5 +1,5 @@
 ######################################################################  RAVENS
-Baltimore Ravens, BAL
+Baltimore Ravens,BAL
 QB,Joe Flacco,31,2008,70,68,76,68,70,44,22.1,3
 QB,Ryan Mallett,28,2011,59,51,68,78,63,16,0.8,2
 QB,Josh Johnson,30,2008,59,52,74,70,59,51,0.6,1
@@ -110,7 +110,7 @@ LB,Karlos Dansby,34,2004,62,76,72,75,58,78,2,1
 LB,Marquis Flowers,24,2014,58,50,73,55,46,52,0.6,4
 END_PLAYERS
 ######################################################################  SHARKS
-Hull Sharks, UHS
+Hull Sharks,UHS
 QB,Sam Foulds,25,2014,81,72,63,76,81,85,8,2
 QB,Seb Burggy,25,2014,76,67,76,85,67,72,4,3
 QB,Seb G,31,2012,67,81,72,81,85,81,15,4
@@ -154,7 +154,7 @@ LB,Ryan Bartram,27,2012,67,76,76,63,76,63,6,2
 LB,Ken Kenzie,30,2014,75,70,80,90,90,80,3,3
 END_PLAYERS
 ######################################################################  STEELERS
-Pittsburgh Steelers, PIT
+Pittsburgh Steelers,PIT
 QB,Bruce Gradkowski,33,2006,57,66,78,70,67,31,1,1
 QB,Ben Roethlisberger,34,2004,78,85,81,93,90,69,21.9,4
 QB,Landry Jones,27,2013,69,47,85,82,69,18,0.6,4
@@ -208,7 +208,7 @@ LB,Anthony Chickillo,23,2015,65,49,82,71,65,72,0.5,1
 LB,Arthur Moats,28,2010,61,70,79,72,80,70,2.5,3
 END_PLAYERS
 ######################################################################  BILLS
-Buffalo Bills, BUF
+Buffalo Bills,BUF
 QB,Tyrod Taylor,26,2011,75,58,78,81,67,56,1.1,3
 QB,EJ Manuel,26,2013,64,58,78,83,67,59,2.2,4
 RB,Karlos Williams,23,2015,70,49,72,75,81,57,0.6,4
@@ -271,7 +271,7 @@ LB,Zach Brown,26,2012,76,66,81,76,59,64,1.3,1
 LB,Jamari Lattimore,27,2011,54,65,81,72,60,64,0.5,1
 END_PLAYERS
 ######################################################################  DOLPHINS
-Miami Dolphins, MIA
+Miami Dolphins,MIA
 QB,Zac Dysert,26,2013,62,49,81,76,65,27,0.5,1
 QB,Logan Thomas,23,2014,74,46,79,84,64,62,0.6,2
 QB,Matt Moore,31,2007,50,68,81,73,65,18,1.8,2
@@ -334,7 +334,7 @@ LB,Koa Misi,29,2010,74,75,81,81,77,79,4.3,4
 LB,Chris McCain,24,2014,55,60,83,59,60,61,0.5,3
 END_PLAYERS
 ######################################################################  PATRIOTS
-New England Patriots, NE
+New England Patriots,NE
 QB,Jimmy Garoppolo,24,2014,78,63,85,81,72,42,0.9,4
 QB,Jacoby Brisett,23,2016,73,55,81,84,69,70,0.8,4
 QB,Tom Brady,38,2000,52,89,81,93,96,18,20.5,2
@@ -398,7 +398,7 @@ LB,Dont'a Hightower,26,2012,76,75,81,85,79,78,1.9,4
 LB,Ramon Humber,28,2009,51,63,78,70,46,65,1,1
 END_PLAYERS
 ######################################################################  JETS
-New York Jets, NYJ
+New York Jets,NYJ
 QB,Geno Smith,25,2013,69,59,85,81,69,64,1.3,4
 QB,Ryan Fitzpatrick,33,2005,69,75,76,78,72,57,12,1
 QB,Bryce Petty,25,2015,74,43,71,81,64,52,0.7,4
@@ -461,7 +461,7 @@ LB,Erin Henderson,29,2008,52,72,78,73,54,71,2,2
 LB,Calvin Pace,35,2003,58,76,82,72,72,75,2.4,2
 END_PLAYERS
 ######################################################################  TEXANS
-Houston Texans, HOU
+Houston Texans,HOU
 QB,Ryan Griffin,26,2013,63,46,81,72,68,31,0.6,4
 QB,Brandon Weeden,32,2012,54,63,80,81,62,18,2,2
 QB,Tom Savage,26,2014,69,48,81,84,72,40,0.6,4
@@ -520,7 +520,7 @@ LB,John Simon,25,2013,69,53,77,73,76,66,1.7,1
 LB,Reshard Cliett,24,2015,67,36,77,70,57,45,0.6,4
 END_PLAYERS
 ######################################################################  COLTS
-Indianapolis Colts, IND
+Indianapolis Colts,IND
 QB,Scott Tolzien,28,2011,53,55,85,74,68,39,1.8,2
 QB,Stephen Morris,23,2014,57,37,76,81,65,63,0.5,3
 QB,Andrew Luck,26,2012,90,76,88,94,89,78,5.5,4
@@ -574,7 +574,7 @@ LB,Sio Moore,26,2013,77,65,80,73,75,67,0.8,4
 LB,Trent Cole,33,2005,61,79,80,69,64,80,4.3,1
 END_PLAYERS
 ######################################################################  JAGUARS
-Jacksonville Jaguars, JAX
+Jacksonville Jaguars,JAX
 QB,Blake Bortles,24,2014,91,60,86,81,66,58,5.2,4
 QB,Chad Henne,30,2008,72,65,81,80,63,18,4,2
 RB,Joe Banyard,27,2012,54,47,82,59,79,68,0.6,2
@@ -638,7 +638,7 @@ LB,Bjoern Werner,25,2013,81,65,82,68,73,66,0.5,1
 LB,Sean Porter,25,2013,72,54,70,69,59,62,0.6,2
 END_PLAYERS
 ######################################################################  TITANS
-Tennessee Titans, TEN
+Tennessee Titans,TEN
 QB,Matt Cassel,34,2005,52,72,75,73,65,32,2,1
 QB,Alex Tanney,28,2012,56,44,79,77,68,44,0.5,2
 QB,Marcus Mariota,22,2015,92,54,83,80,79,71,6.1,4
@@ -695,7 +695,7 @@ LB,Sean Spence,27,2012,72,64,68,69,58,67,2.5,1
 LB,Brian Orakpo,29,2009,78,73,72,76,83,71,7.8,4
 END_PLAYERS
 ######################################################################  BRONCOS
-Denver Broncos, DEN
+Denver Broncos,DEN
 QB,Paxton Lynch,22,2016,72,58,76,84,79,45,2.4,4
 QB,Trevor Siemian,24,2015,77,46,70,71,66,53,0.6,4
 QB,Mark Sanchez,29,2009,58,66,75,77,71,42,4.5,2
@@ -749,7 +749,7 @@ LB,Todd Davis,24,2014,55,47,84,74,55,60,0.5,2
 LB,Von Miller,27,2011,89,77,83,93,89,87,14.1,1
 END_PLAYERS
 ######################################################################  CHIEFS
-Kansas City Chiefs, KC
+Kansas City Chiefs,KC
 QB,Aaron Murray,25,2014,69,47,71,76,73,36,0.6,4
 QB,Tyler Bray,24,2013,54,46,78,83,62,18,1,2
 QB,Alex Smith,32,2005,83,78,79,75,73,36,17,4
@@ -810,7 +810,7 @@ LB,Frank Zombo,29,2010,52,69,76,73,66,66,1.2,3
 LB,Jonathan Massaquoi,28,2012,68,64,81,65,74,59,0.7,1
 END_PLAYERS
 ######################################################################  RAIDERS
-Las Vegas Raiders, LV
+Las Vegas Raiders,LV
 QB,Matt McGloin,26,2013,54,63,82,71,64,40,2.6,1
 QB,Derek Carr,25,2014,87,63,82,86,72,45,1.3,4
 RB,Latavius Murray,25,2013,63,59,70,76,82,56,0.6,4
@@ -864,7 +864,7 @@ LB,Bruce Irvin,26,2012,81,67,84,80,81,67,9.3,4
 LB,Aldon Smith,26,2011,89,68,79,79,85,70,5.8,2
 END_PLAYERS
 ######################################################################  CHARGERS
-San Diego Chargers, SD
+Los Angeles Chargers,LAC
 QB,Philip Rivers,34,2004,82,80,88,78,81,18,20.8,4
 QB,Kellen Clemens,33,2006,72,63,76,74,65,18,1.1,1
 QB,Zach Mettenberger,24,2014,64,55,73,85,68,35,0.6,4
@@ -926,7 +926,7 @@ LB,Joey Bosa,20,2016,94,58,76,72,82,68,6.5,4
 LB,Kyle Emanuel,24,2015,70,42,82,63,75,55,0.6,4
 END_PLAYERS
 ######################################################################  BEARS
-Chicago Bears, CHI
+Chicago Bears,CHI
 QB,David Fales,25,2014,65,48,84,74,72,37,0.6,2
 QB,Brian Hoyer,30,2009,60,65,77,75,66,36,2,1
 QB,Jay Cutler,33,2006,75,63,81,88,68,22,18.1,7
@@ -982,7 +982,7 @@ LB,Cornelius Washington,26,2013,63,54,78,81,77,69,0.6,4
 LB,Christian Jones,25,2014,55,62,84,68,51,54,0.5,3
 END_PLAYERS
 ######################################################################  LIONS
-Detroit Lions, DET
+Detroit Lions,DET
 QB,Matthew Stafford,28,2009,87,68,75,89,76,35,17.7,3
 QB,Dan Orlovsky,32,2005,62,63,81,71,64,18,1.1,1
 RB,George Winn,25,2013,55,48,81,77,78,59,0.6,1
@@ -1049,7 +1049,7 @@ LB,Kyle Van Noy,26,2014,78,55,78,73,72,64,1.3,4
 LB,Stephen Tulloch,31,2006,66,81,81,81,66,84,5.1,5
 END_PLAYERS
 ######################################################################  PACKERS
-Green Bay Packers, GB
+Green Bay Packers,GB
 QB,Aaron Rodgers,32,2005,74,85,79,94,91,81,22,5
 QB,Brett Hundley,23,2015,70,42,81,81,61,63,0.6,4
 RB,John Crockett,24,2015,57,34,81,63,76,70,0.5,2
@@ -1097,7 +1097,7 @@ LB,Clay Matthews,30,2009,73,81,79,90,85,88,13.2,5
 LB,Nick Perry,26,2012,76,68,87,72,74,65,5.1,1
 END_PLAYERS
 ######################################################################  VIKINGS
-Minnesota Vikings, MIN
+Minnesota Vikings,MIN
 QB,Teddy Bridgewater,23,2014,87,78,69,80,78,74,63,4
 QB,Shaun Hill,36,2002,50,45,71,72,69,65,18,2
 QB,Taylor Heinicke,23,2015,63,56,43,80,71,69,58.5,3
@@ -1156,7 +1156,7 @@ LB,Travis Lewis,28,2012,70,63,63,78,72,54,61.2,1
 LB,Edmond Robinson,24,2015,68,61,40,79,68,45,40.5,4
 END_PLAYERS
 ######################################################################  COWBOYS
-Dallas Cowboys, DAL
+Dallas Cowboys,DAL
 QB,Tony Romo,36,2003,45,82,76,80,82,66,18,6
 QB,Dak Prescott,23,2016,85,72,82,83,71,63,0.5,4
 QB,Jameill Showers,24,2015,57,33,78,81,56,63,0.5,3
@@ -1217,7 +1217,7 @@ LB,Andrew Gachkar,27,2011,58,69,76,73,71,68,1.8,2
 LB,Sean Lee,29,2010,74,78,65,82,83,85,7,6
 END_PLAYERS
 ######################################################################  GIANTS
-New York Giants, NYG
+New York Giants,NYG
 QB,BJ Daniels,26,2013,60,40,76,75,63,57,0.6,2
 QB,Ryan Nassib,26,2013,73,46,85,79,76,33,0.7,4
 QB,Eli Manning,35,2004,82,81,88,80,78,27,21,4
@@ -1285,7 +1285,7 @@ LB,Jonathan Casillas,29,2009,51,67,69,68,47,71,2.7,3
 LB,Keenan Robinson,26,2012,71,68,76,78,57,66,2.6,1
 END_PLAYERS
 ######################################################################  EAGLES
-Philadelphia Eagles, PHI
+Philadelphia Eagles,PHI
 QB,Sam Bradford,28,2010,88,68,63,78,67,26,17.5,2
 QB,Chase Daniel,29,2009,51,63,81,73,63,45,7,3
 QB,Carson Wentz,23,2016,94,67,76,83,80,74,6.7,4
@@ -1343,7 +1343,7 @@ LB,Bryan Braman,29,2011,53,67,79,70,71,63,1,2
 LB,Najee Goode,27,2012,67,59,79,66,63,54,0.8,1
 END_PLAYERS
 ######################################################################  REDSKINS
-Washington Redskins, WAS
+Washington Redskins,WAS
 QB,Kirk Cousins,27,2012,76,59,79,75,63,27,20,1
 QB,Colt McCoy,29,2010,70,62,79,72,66,54,3,3
 RB,Chris Thompson,25,2013,69,53,63,32,81,72,0.7,1
@@ -1397,7 +1397,7 @@ LB,Terence Garvin,25,2013,54,55,82,70,57,58,0.8,1
 LB,Mason Foster,27,2011,71,72,78,75,64,72,1.3,2
 END_PLAYERS
 ######################################################################  FALCONS
-Atlanta Falcons, ATL
+Atlanta Falcons,ATL
 QB,Matt Simms,27,2012,54,40,76,77,64,22,0.6,2
 QB,Sean Renfree,26,2013,59,51,76,75,74,18,0.6,4
 QB,Matt Ryan,31,2008,86,79,85,80,79,18,20.8,5
@@ -1453,7 +1453,7 @@ LB,Philip Wheeler,31,2008,68,76,82,73,73,72,1,1
 LB,O'Brien Schofield,29,2010,58,68,70,71,58,63,1.7,1
 END_PLAYERS
 ######################################################################  PANTHERS
-Carolina Panthers, CAR
+Carolina Panthers,CAR
 QB,Derek Anderson,33,2005,56,65,81,82,64,18,2.4,2
 QB,Joe Webb,29,2010,61,59,79,80,59,69,0.9,2
 QB,Cam Newton,27,2011,89,74,86,96,87,84,20.8,5
@@ -1517,7 +1517,7 @@ LB,Ben Jacobs,28,2011,54,63,85,70,66,62,0.7,1
 LB,David Mayo,22,2015,70,46,70,76,54,57,0.6,4
 END_PLAYERS
 ######################################################################  SAINTS
-New Orleans Saints, NO
+New Orleans Saints,NO
 QB,Drew Brees,37,2001,66,87,86,87,90,18,20,5
 QB,Garrett Grayson,25,2015,74,48,74,80,67,34,0.9,4
 QB,Luke McCown,34,2004,64,68,73,74,65,36,1.5,2
@@ -1574,7 +1574,7 @@ LB,Kasim Edebali,26,2014,55,57,81,63,72,58,0.5,3
 LB,Dannell Ellerbe,30,2009,51,73,76,66,60,73,2.5,2
 END_PLAYERS
 ######################################################################  BUCCANEERS
-Tampa Bay Buccaneers, TB
+Tampa Bay Buccaneers,TB
 QB,Jameis Winston,22,2015,92,62,87,85,67,58,6.3,4
 QB,Mike Glennon,26,2013,77,62,86,83,65,18,0.8,4
 RB,Mike James,25,2013,63,58,76,68,78,57,0.6,2
@@ -1634,7 +1634,7 @@ LB,Kourtnei Brown,28,2012,56,49,74,71,69,58,0.5,2
 LB,Lavonte David,26,2012,76,79,87,96,85,94,10.1,5
 END_PLAYERS
 ######################################################################  CARDINALS
-Arizona Cardinals, ARZ
+Arizona Cardinals,ARZ
 QB,Matt Barkley,25,2013,72,48,78,75,67,33,0.7,4
 QB,Drew Stanton,32,2007,72,62,77,80,64,27,3.3,2
 QB,Carson Palmer,36,2003,81,77,66,79,74,18,16.5,3
@@ -1690,7 +1690,7 @@ LB,Markus Golden,25,2015,79,42,81,65,73,62,1,4
 LB,Kenny Demens,26,2013,58,56,82,71,63,61,0.5,2
 END_PLAYERS
 ######################################################################  RAMS
-Los Angeles Rams, LAR
+Los Angeles Rams,LAR
 QB,Sean Mannion,24,2015,74,50,80,79,68,33,0.8,4
 QB,Nick Foles,27,2012,72,65,76,81,71,18,12.3,2
 QB,Case Keenum,28,2012,54,58,71,74,66,18,3.6,1
@@ -1746,7 +1746,7 @@ LB,Bryce Hager,24,2015,65,55,74,74,42,67,0.6,4
 LB,Akeem Ayers,26,2011,75,66,85,72,75,67,3,2
 END_PLAYERS
 ######################################################################  SEAHAWKS
-Seattle Seahawks, SEA
+Seattle Seahawks,SEA
 QB,Russell Wilson,27,2012,80,75,84,92,85,87,21.9,4
 QB,Tarvaris Jackson,33,2006,72,60,72,83,63,55,1.5,1
 RB,Derrick Coleman,25,2012,49,64,78,73,78,54,0.5,3
@@ -1804,7 +1804,7 @@ LB,Kevin Pierre-Louis,24,2014,69,55,76,72,64,48,0.7,4
 LB,Brock Coyle,25,2014,55,60,83,71,55,63,0.5,3
 END_PLAYERS
 ######################################################################  49ERS
-San Francisco 49ers, SF
+San Francisco 49ers,SF
 QB,Colin Kaepernick,28,2011,75,67,85,85,70,72,19,6
 QB,Thad Lewis,28,2010,54,58,82,79,63,51,0.8,1
 QB,Blaine Gabbert,26,2011,72,58,81,79,64,42,2,2
